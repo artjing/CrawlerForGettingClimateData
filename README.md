@@ -19,11 +19,11 @@ $ pip3 install selenium
 
 
 1, Checking the version of your chrome browser
-![d7e5346263ffa166fd0f3c0b89a57ef7.png](https://raw.githubusercontent.com/artjing/CrawlerForGettingClimateData/master/image/1.png)
+![d7e5346263ffa166fd0f3c0b89a57ef7.png](evernotecid://4920FC1F-2801-487E-B865-128CE5E4C0D9/appyinxiangcom/2071823/ENResource/p2943)
 
 Then download the same version from following site: 
 [http://chromedriver.chromium.org/downloads](http://chromedriver.chromium.org/downloads)
-![3c198b4b022ee728a8c1e5fa82c6efa9.png](https://raw.githubusercontent.com/artjing/CrawlerForGettingClimateData/master/image/2.png)
+![3c198b4b022ee728a8c1e5fa82c6efa9.png](evernotecid://4920FC1F-2801-487E-B865-128CE5E4C0D9/appyinxiangcom/2071823/ENResource/p2944)
 
 2, Copy the chrome driver file you downlod to folder: **/usr/local/bin**
 
